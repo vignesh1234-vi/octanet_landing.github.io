@@ -1,1 +1,1 @@
-# octanet_landing.gitup.io
+# octanet_landing.github.io
